@@ -1,6 +1,16 @@
-<h1 align="center">Hey 👋, I'm Kwdk</h1>
-<h3 align="center">A software developer from Germany</h3>
+<!--
+ __    __                     __  __       
+|  \  /  \                   |  \|  \      
+| $$ /  $$__   __   __   ____| $$| $$   __ 
+| $$/  $$|  \ |  \ |  \ /      $$| $$  /  \
+| $$  $$ | $$ | $$ | $$|  $$$$$$$| $$_/  $$
+| $$$$$\ | $$ | $$ | $$| $$  | $$| $$   $$ 
+| $$ \$$\| $$_/ $$_/ $$| $$__| $$| $$$$$$\ 
+| $$  \$$\\$$   $$   $$ \$$    $$| $$  \$$\
+ \$$   \$$ \$$$$$\$$$$   \$$$$$$$ \$$   \$$
+-->
 
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&color=F700C8FF&width=500&height=70&duration=3000&lines=Hello+my+is+Kwdk!;+I+work+for+Luminate;" /> </h1><h3 align="center">A webseite developer from Germany</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kwdk&label=Profile%20views&color=0e75b6&style=flat" alt="kwdk" />
 </p>
@@ -24,11 +34,7 @@
   - MongoDB
 
 ### 📈 GitHub Stats :
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kwdk&show_icons=true&theme=dark" alt="kwdk's GitHub Stats" />
+<p>
+<img height=120 align="left" src="https://github-readme-stats.vercel.app/api?username=k5wdk" alt="kwdk's GitHub Coding2" />
+<img height=120 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k5wdk&layout=compact" alt="kwdk's GitHub Coding3" />
 </p>
-
-  <p align="center">
-    <img width="17" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"> <a href="https://discord.gg/luminateos">Luminate Discord</a>
-    ·
-    <a href="https://github.com/k5wdk?tab=repositories">My Projects</a></p>
