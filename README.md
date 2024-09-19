@@ -28,7 +28,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kwdk&show_icons=true&theme=dark" alt="kwdk's GitHub Stats" />
 </p>
 
-### 🌐 Find me on:
-- [Luminate](https://luminateos.com)
-- [Discord](https://dsc.gg/luminate)
-- [Webseite](https://kwdk.me)
+  <p align="center">
+    <img width="17" src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png"> <a href="https://discord.gg/luminateos">Luminate Discord</a>
+    ·
+    <a href="https://github.com/k5wdk?tab=repositories">My Projects</a></p>
