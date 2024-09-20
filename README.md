@@ -10,7 +10,7 @@
  \$$   \$$ \$$$$$\$$$$   \$$$$$$$ \$$   \$$
 -->
 
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&color=F700C8FF&width=500&height=70&duration=3000&lines=Hello+my+is+Kwdk!;+I+work+for+Luminate;" /> </h1><h3 align="center">I'm a [Luminate](https://github.com/luminate-os) employee from Germany</h3>
+<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&color=F700C8FF&width=500&height=70&duration=3000&lines=Hello+my+is+Kwdk!;+I+work+for+Luminate;" /> </h1><h3 align="center">I'm a Luminate employee from Germany</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=kwdk&label=Profile%20views&color=0e75b6&style=flat" alt="kwdk" />
 </p>
