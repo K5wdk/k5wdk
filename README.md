@@ -29,7 +29,7 @@
 - **Frameworks**: 
   - Node.js, Express
 - **Tools**: 
-  - Git, Replit
+  - Github, Replit
 - **Databases**: 
   - MongoDB
 
