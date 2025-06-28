@@ -23,7 +23,7 @@
 
 ### 🛠️ Tech Stack :
 - **Languages**: 
-  - JavaScript, Python, Html, Css, C# .net, Node.js, Express, Nextcord
+  - JavaScript, Python, Html, Css, C#, Node.js, Nextcord, Tailwind, Astro, PHP
 
 ### 📈 GitHub Stats :
 <p>
