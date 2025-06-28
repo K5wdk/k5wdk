@@ -19,13 +19,13 @@
 
 ### 👨‍💻 About Me :
 - 🔭 I’m currently the Manager from [Luminate](https://github.com/luminate-os)
-- 🌱 I’m currently learning **Klotin and Java App development**
+- 🌱 I’m currently learning **Klotin App development**
 - 💬 Ask me about **software development, viruses, Luminateos, and management**
 - ⚡ Fun fact: I'm also experienced in **building my appartment**
 
 ### 🛠️ Tech Stack :
 - **Languages**: 
-  - JavaScript, Python, Html, Css, Java, C# .net
+  - JavaScript, Python, Html, Css, C# .net
 - **Frameworks**: 
   - Node.js, Express
 - **Tools**: 
