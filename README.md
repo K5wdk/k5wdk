@@ -10,22 +10,41 @@
  \$$   \$$ \$$$$$\$$$$   \$$$$$$$ \$$   \$$
 -->
 
-<h1 align="center"> <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&color=F700C8FF&width=500&height=70&duration=3000&lines=Hello+my+is+Kwdk!;+I+work+for+Luminate;" /> </h1><h3 align="center">I'm CEO of Luminate which have over 100.000+ Visits</h3>
+<!-- Banner / Header -->
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Poppins&size=35&center=true&vCenter=true&color=F700C8FF&width=550&height=70&duration=3000&lines=Hi+there!;I'm+the+CEO+of+Luminate;Welcome+to+my+GitHub" />
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kwdk&label=Profile%20views&color=0e75b6&style=flat" alt="kwdk" />
+  <img src="https://komarev.com/ghpvc/?username=k5wdk&label=Profile%20views&color=blueviolet&style=flat" alt="views" />
+</p>
+</h1>
+
+---
+
+### 👨‍💻 About Me
+- 🚀 CEO & Founder of [Luminate](https://github.com/Luminate-os)  
+- 💻 Web & Backend Developer
+
+---
+
+### 🛠️ Tech Stack
+
+#### 🌐 Web Development
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,js,astro,tailwind" />
+</p>
+
+#### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,php" />
+</p>
+
+#### 💾 Software Development
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,java,python,batch" />
 </p>
 
 ---
 
-### 👨‍💻 About Me :
-- 🔭 I’m currently the CEO of [Luminate](https://github.com/luminate-os)
-- 🌱 I’m also Developer and Designer of [Reprush](https://reprush.com)
-
-### 🛠️ Tech Stack :
-- **Languages**: 
-  - JavaScript, Python, Html, Css, C#, Node.js, Nextcord, Tailwind, Astro, PHP
-
-### 📈 GitHub Stats :
-<p>
-<img height=120 align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=k5wdk&layout=compact" alt="kwdk's GitHub Coding3" />
-</p>
+### 🌐 Projects
+- 🔑 [Luminate OS](https://luminateos.xyz) – A good Android Launcher  
+- 🎭 [Reprush](https://reprush.com) – Find chinese goods and replicas
